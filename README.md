@@ -21,5 +21,5 @@ A basic three js project for an understanding of how three js works.
 * Run
 
   ``` cmd
-  > parcel index.html
+  > npm run start
   ```
